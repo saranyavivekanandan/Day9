@@ -1,5 +1,6 @@
 from twilio.rest import Client
 #
+# ------------------------TO MAKE BOTH SMS AND PHONE CALL ---------------------------------
 
 account = 'AC2f93079cb2fc82562f1fd2fd45f4e55a'
 auth = '2ad1596f003dfb430f8caa55c18e340e'
