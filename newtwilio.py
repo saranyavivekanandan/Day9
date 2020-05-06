@@ -1,4 +1,4 @@
-# from twilio.rest import Client
+from twilio.rest import Client
 #
 #
 # account = 'AC2f93079cb2fc82562f1fd2fd45f4e55a'
@@ -12,7 +12,7 @@
 # mymessage = client.messages.create(to=mycell, from_=mytwilio, body=new)
 
 
-from twilio.rest import Client
+# from twilio.rest import Client
 
 
 # Your Account Sid and Auth Token from twilio.com/console
